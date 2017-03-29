@@ -1,0 +1,22 @@
+/*--------------------------------------------------
+Base
+--------------------------------------------------*/
+body {
+	line-height: 1;
+}
+
+#canvas {
+	width: 400px;
+	height: 200px;
+	background: #eee;
+	margin: 0;
+	padding: 0;
+}
+
+.test {
+	width: 400px;
+	height: auto;
+	display: block;
+	vertical-align: middle;
+	line-height: 0;
+}

@@ -1,0 +1,29 @@
+/*--------------------------------------------------
+Website by Websolute
+--------------------------------------------------*/
+/**/
+/*--------------------------------------------------
+W E B S I T E
+Website by Websolute
+--------------------------------------------------*/
+/*--------------------------------------------------
+Base
+--------------------------------------------------*/
+body {
+  line-height: 1; }
+
+#canvas {
+  width: 400px;
+  height: 200px;
+  background: #eee;
+  margin: 0;
+  padding: 0; }
+
+.test {
+  width: 400px;
+  height: auto;
+  display: block;
+  vertical-align: middle;
+  line-height: 0; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uc2NzcyIsIl9tb2R1bGVzL19iYXNlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O29EQUVvRDtBQUNwRCxJQUhBO0FBQUE7OztvREFHQTtBQ0hBOztvREFFb0Q7QUFDcEQ7RUFDQyxlQUFlLEVBQ2Y7O0FBRUQ7RUFDQyxhQUFhO0VBQ2IsY0FBYztFQUNkLGlCQUFpQjtFQUNqQixVQUFVO0VBQ1YsV0FBVyxFQUNYOztBQUVEO0VBQ0MsYUFBYTtFQUNiLGFBQWE7RUFDYixlQUFlO0VBQ2YsdUJBQXVCO0VBQ3ZCLGVBQWUsRUFDZiIsImZpbGUiOiJtYWluLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cbldlYnNpdGUgYnkgV2Vic29sdXRlXG4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSovXG4vKiovLyotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLVxyXG5XIEUgQiBTIEkgVCBFXHJcbldlYnNpdGUgYnkgV2Vic29sdXRlXHJcbi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tKi9cclxuXHJcbkBpbXBvcnQgXCJfbW9kdWxlcy9iYXNlXCI7IiwiLyotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLVxyXG5CYXNlXHJcbi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tKi9cclxuYm9keSB7XHJcblx0bGluZS1oZWlnaHQ6IDE7XHJcbn1cclxuXHJcbiNjYW52YXMge1xyXG5cdHdpZHRoOiA0MDBweDtcclxuXHRoZWlnaHQ6IDIwMHB4O1xyXG5cdGJhY2tncm91bmQ6ICNlZWU7XHJcblx0bWFyZ2luOiAwO1xyXG5cdHBhZGRpbmc6IDA7XHJcbn1cclxuXHJcbi50ZXN0IHtcclxuXHR3aWR0aDogNDAwcHg7XHJcblx0aGVpZ2h0OiBhdXRvO1xyXG5cdGRpc3BsYXk6IGJsb2NrO1xyXG5cdHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7XHJcblx0bGluZS1oZWlnaHQ6IDA7XHJcbn0iXX0= */
